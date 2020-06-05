@@ -12843,3 +12843,6 @@ nav.popup_menu ul li ul li ul li a, nav.popup_menu ul li ul li ul li h6 {
     margin: 20px 0 15px 0;
 }
 }
+.product_view .modal-dialog{max-width: 800px; width: 100%;}
+.pre-cost{text-decoration: line-through; color: #a5a5a5;}
+.space-ten{padding: 10px 0;}
