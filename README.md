@@ -8,7 +8,7 @@
   1. add navbar
   2. remove some fcking sh*t word
   3. update css
-# udpate feature 3 :
+# update feature 3 :
   1. update html code
   2. add modal login form
 # update feature will be update soon
