@@ -13,4 +13,8 @@
   2. add modal login form
 # update feature 1.3 :
   1. add registration form
-# update feature will be update soon
+# update final theme : 
+  1. add chekout_page
+  2. add dashboard profile
+  3. add wishlist page
+  4. update css
